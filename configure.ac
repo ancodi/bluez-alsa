@@ -18,6 +18,8 @@ AC_PROG_LN_S
 AC_PROG_MKDIR_P
 AM_PROG_AR
 AM_PROG_CC_C_O
+AM_PROG_LIBTOOL
+AC_PROG_LIBTOOL
 LT_INIT
 
 # configuration should match ALSA library
